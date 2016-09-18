@@ -31,7 +31,7 @@ public class AppManager : MonoBehaviour
 	#endregion PRIVATE_MEMBER_VARIABLES
 
 	//This gets called from SceneManager's Start() 
-    //ok
+    //ok call this
 	public virtual void InitManager()
 	{
 		mSplashView = new SplashScreenView();
