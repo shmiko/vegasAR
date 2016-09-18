@@ -9,6 +9,7 @@ using Vuforia;
 /// This class manages different views in the scene like AboutPage, SplashPage and ARCameraView.
 /// All of its Init, Update and Draw calls take place via SceneManager's Monobehaviour calls to ensure proper sync across all updates
 /// </summary>
+/// working
 public class AppManager : MonoBehaviour
 {
 
