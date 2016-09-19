@@ -26,6 +26,8 @@ public class ScaleVideoPlane : MonoBehaviour, ITrackableEventHandler {
 		scale = transform.localScale.x;
 	}
 	
+
+	
 	// Update is called once per frame
 	void Update () {
 		if(startDist != 0)

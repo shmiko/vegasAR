@@ -30,6 +30,7 @@ public class AppManager : MonoBehaviour
 	private float mSecondsVisible = 4.0f;
 	#endregion PRIVATE_MEMBER_VARIABLES
 
+
 	//This gets called from SceneManager's Start() 
     //ok call this video
 
