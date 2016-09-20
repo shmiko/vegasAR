@@ -15,7 +15,7 @@ public class ScaleVideoPlane : MonoBehaviour, ITrackableEventHandler {
 	private float xyz; //for all axis (x, y, z)
 
 	private TrackableBehaviour mTrackableBehaviour;
-
+ffff
 	// Use this for initialization
 	void Start () {
 		mTrackableBehaviour = imageTarget.GetComponent<TrackableBehaviour>();
@@ -27,7 +27,7 @@ public class ScaleVideoPlane : MonoBehaviour, ITrackableEventHandler {
 	}
 	
 
-	
+
 	// Update is called once per frame
 	void Update () {
 		if(startDist != 0)
