@@ -29,7 +29,7 @@ public class AppManager : MonoBehaviour
 	private AboutScreenView mAboutView;
 	private float mSecondsVisible = 4.0f;
 	#endregion PRIVATE_MEMBER_VARIABLES
-
+set once
 
 	//This gets called from SceneManager's Start() 
     //ok call this video
