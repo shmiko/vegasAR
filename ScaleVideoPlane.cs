@@ -26,7 +26,7 @@ ffff
 		scale = transform.localScale.x;
 	}
 	
-
+free
 
 	// Update is called once per frame
 	void Update () {
